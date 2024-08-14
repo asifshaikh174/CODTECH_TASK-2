@@ -57,7 +57,7 @@ Highlight any limitations of the analysis and suggest directions for future work
 
 • Data Visualization: Creating visualizations to understand data distributions, tweets, and comments.
 
-**Tools and Technologies Used** 
+**Tools and Technologies Used :** 
 
 • Programming Language: Python
 
